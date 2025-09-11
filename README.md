@@ -21,6 +21,9 @@ Additional description about the project and its features.
 
 ## Getting Started
 - Follow the live demo link and enjoy the site.
+- Landing Page
+- <img width="1343" height="625" alt="screenshot1" src="https://github.com/user-attachments/assets/7b32d9c6-28cd-45ca-84dc-ae45ebe7c03d" />
+
 
 ### Usage
 - To get a local copy up and running follow these simple example steps.
