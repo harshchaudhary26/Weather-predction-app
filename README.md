@@ -56,7 +56,7 @@ Clone the repository unto your local machine cd to the folder.
 👤 Harsh Chaudhary
 - Github: https://github.com/harshchaudhary26
 - Twitter: https://x.com/haotos07?t=ayNlY096wSJqKV3tlrP24g&s=09
-- Linkedin: https://www.linkedin.com/in/harsh-chaudhary-614b791b8/
+- Linkedin: https://www.linkedin.com/in/harsh-chaudhary-1b1b25355/
 - HackerRank: https://www.hackerrank.com/hc3635
 ## Show your support
 
