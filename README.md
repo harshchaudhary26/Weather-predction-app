@@ -24,6 +24,14 @@ Additional description about the project and its features.
 - Landing Page
 - <img width="1343" height="625" alt="screenshot1" src="https://github.com/user-attachments/assets/7b32d9c6-28cd-45ca-84dc-ae45ebe7c03d" />
 
+Actual Weather of a city for that particular day:
+
+<img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/014f8026-8e43-4829-98bc-8a51772f0836" />
+
+Weather forecast for the city Meerut for 5 consecutive days:
+<img width="1919" height="958" alt="image" src="https://github.com/user-attachments/assets/22be8d31-ecd7-4ceb-91f1-5c527bbf2b85" />
+
+
 
 ### Usage
 - To get a local copy up and running follow these simple example steps.
